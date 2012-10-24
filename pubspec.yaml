@@ -1,0 +1,10 @@
+name: msgpack
+version: 0.1.0-dev
+description: Dart implementation of MsgPack (http://msgpack.org/)
+author: Ladislav Thon <ladicek@gmail.com>
+homepage: https://github.com/Ladicek/msgpack-dart
+dependencies:
+  darmatch:
+    git: git://github.com/Ladicek/darmatch.git
+  detester:
+    git: git://github.com/Ladicek/detester.git
